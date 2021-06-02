@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/testRedis/v16/.suo
+/.vs
+/TestRedisConnect/.vs/TestRedisConnect/v16
+/TestRedisConnect/TestRedisConnect/bin/Debug/netcoreapp2.2
+/TestRedisConnect/.vs/TestRedisConnect/DesignTimeBuild/.dtbcache.v2
+/TestRedisConnect/.vs/TestRedisConnect/config
+/TestRedisConnect/TestRedisConnect/obj
+/TestRedisConnect/TestRedisConnect/Properties
